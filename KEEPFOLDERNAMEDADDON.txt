@@ -1,0 +1,1 @@
+Keep the folder named "Addon" or it will  not work
